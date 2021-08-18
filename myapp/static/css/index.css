@@ -1,0 +1,49 @@
+#main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 50px;
+}
+
+
+#plus{
+    width: 50px;
+    height: 50px;
+    padding: 7px 10px;
+    border-radius: 25px;
+    font-size: 20px;
+    text-align: center;
+    margin: 10px 0px;
+    border: 3px cornflowerblue;
+    border-style: outset;
+}
+
+#chat-div{
+
+    height: 500px;
+    overflow: auto;
+
+}
+
+.profile-image{
+
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+
+}
+
+.img-box{
+    width: 90px;
+}
+
+.date-box{
+    width: 200px;
+}
+
+.table tr td{
+    margin-top: 10px;
+    padding: 10px;
+    background-color: white;
+}
